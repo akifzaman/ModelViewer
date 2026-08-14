@@ -136,8 +136,8 @@
             "castShadows": true,
             "color": [
               1,
-              1,
-              1
+              0,
+              0
             ],
             "cookieAngle": 0,
             "cookieAsset": null,
@@ -155,7 +155,7 @@
             "enabled": true,
             "falloffMode": 0,
             "innerConeAngle": 40,
-            "intensity": 1,
+            "intensity": 2,
             "isStatic": false,
             "layers": [
               0
@@ -173,7 +173,7 @@
             "shadowType": 2,
             "shadowUpdateMode": 2,
             "shape": 0,
-            "type": "directional",
+            "type": "spot",
             "vsmBias": 0.01,
             "vsmBlurMode": 0,
             "vsmBlurSize": 5
@@ -183,15 +183,15 @@
         "name": "Light",
         "parent": "684df6b4-c6d6-11e6-89b2-22000ac481df",
         "position": [
-          0,
-          1,
-          0
+          -2.7866036891937256,
+          1.5403860807418823,
+          0.8514729249686601
         ],
         "resource_id": "684dfa60-c6d6-11e6-89b2-22000ac481df",
         "rotation": [
-          -111.36270141601562,
-          -71.05379486083984,
-          -169.38919067382812
+          -155.66,
+          -89.6,
+          -180.99
         ],
         "scale": [
           1,
@@ -363,8 +363,8 @@
             "cascadeDistribution": 0.5,
             "castShadows": true,
             "color": [
-              1,
-              1,
+              0,
+              0.8745098039215686,
               1
             ],
             "cookieAngle": 0,
@@ -383,7 +383,7 @@
             "enabled": true,
             "falloffMode": 0,
             "innerConeAngle": 40,
-            "intensity": 1,
+            "intensity": 2,
             "isStatic": false,
             "layers": [
               0
@@ -664,8 +664,8 @@
   },
   "m": {
     "ctime": 1786689741874,
-    "mtime": 1786689785764
+    "mtime": 1786690058168
   },
   "type": "http://sharejs.org/types/JSONv0",
-  "v": 3
+  "v": 1850
 }
