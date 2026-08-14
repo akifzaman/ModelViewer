@@ -1,0 +1,68 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "addressu": "repeat",
+      "addressv": "repeat",
+      "anisotropy": 1,
+      "magfilter": "linear",
+      "minfilter": "linear_mip_linear",
+      "mipmaps": true,
+      "rgbm": true,
+      "srgb": false
+    },
+    "file": {
+      "filename": "Helipad_posx.png",
+      "hash": "31a60803729804b78391019e7fce903ee8299f1e615ea029c72ab29926c1b41a",
+      "size": 442652
+    },
+    "has_thumbnail": true,
+    "i18n": {},
+    "immutable_backup": "75b289a9-13d0-4967-97f1-404cee52a14e",
+    "item_id": "2862",
+    "meta": {
+      "alpha": true,
+      "compress": {
+        "alpha": true,
+        "basis": false,
+        "compressionMode": "etc",
+        "dxt": false,
+        "etc1": false,
+        "etc2": false,
+        "normals": false,
+        "pvr": false,
+        "pvrBpp": 4,
+        "quality": 128
+      },
+      "depth": 1,
+      "format": "png",
+      "height": 512,
+      "interlaced": false,
+      "srgb": true,
+      "type": "png",
+      "width": 512
+    },
+    "name": "Helipad_posx.png",
+    "path": [
+      2850
+    ],
+    "preload": false,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": "2826",
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741807,
+    "mtime": 1786689784852
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 7
+}

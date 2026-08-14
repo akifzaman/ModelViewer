@@ -1,0 +1,63 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": null,
+    "file": {
+      "filename": "playcanvas.FBX",
+      "hash": "895c641d8603d6c8091e7921b1050dd0bae2ce5c4702a6349753bc152b040aee",
+      "size": 314385
+    },
+    "i18n": {},
+    "immutable_backup": "54ea0596-aa62-404a-a2c7-10a4a524a384",
+    "item_id": "2802",
+    "meta": {
+      "animations": [],
+      "mappings": [
+        0,
+        1
+      ],
+      "materials": [
+        {
+          "name": "mat_02",
+          "textures": []
+        },
+        {
+          "name": "mat_01",
+          "textures": []
+        }
+      ],
+      "model": {
+        "file": "model.glb",
+        "name": "playcanvas.glb"
+      },
+      "scene": {
+        "file": "scene.json",
+        "name": "playcanvas"
+      },
+      "textures": []
+    },
+    "name": "playcanvas.FBX",
+    "path": [
+      2846,
+      2808
+    ],
+    "preload": false,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": true,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "scene"
+  },
+  "m": {
+    "ctime": 1786689741648,
+    "mtime": 1786689741648
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

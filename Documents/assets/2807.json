@@ -1,0 +1,38 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "containerAsset": 2798,
+      "renderIndex": 0
+    },
+    "file": null,
+    "i18n": {},
+    "item_id": "2806",
+    "meta": {
+      "meshInstances": 1,
+      "skinned": false
+    },
+    "name": "canvas",
+    "path": [
+      2846,
+      2808
+    ],
+    "preload": true,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "render"
+  },
+  "m": {
+    "ctime": 1786689741660,
+    "mtime": 1786689741660
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

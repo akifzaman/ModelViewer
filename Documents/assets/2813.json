@@ -1,0 +1,52 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "anisotropy": 1,
+      "magFilter": 1,
+      "minFilter": 5,
+      "name": "Helipad",
+      "rgbm": true,
+      "textures": [
+        2862,
+        2842,
+        2832,
+        2852,
+        2854,
+        2822
+      ]
+    },
+    "file": {
+      "filename": "Helipad.dds",
+      "hash": "e3fbb499160f3c8e24e1554772169d9e7d6cb2d41db5c07fcd1a1f643923b892",
+      "size": 524324
+    },
+    "has_thumbnail": false,
+    "i18n": {},
+    "immutable_backup": "cea9557b-7eae-4d19-a7e6-1e476637c2a4",
+    "item_id": "2812",
+    "meta": null,
+    "name": "Helipad.dds",
+    "path": [
+      2850
+    ],
+    "preload": true,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "cubemap"
+  },
+  "m": {
+    "ctime": 1786689741667,
+    "mtime": 1786689784326
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 2
+}

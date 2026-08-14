@@ -1,0 +1,60 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "mipmaps": true,
+      "srgb": true
+    },
+    "exclude": false,
+    "file": {
+      "filename": "Model-538-9519_lp_R-538-9519_Normal.png",
+      "hash": "c74e63a411274eb5ad0609e56e22db77def9a9e0a31a03e6df7704e049a3fa84",
+      "size": 3268518
+    },
+    "has_thumbnail": true,
+    "i18n": {},
+    "item_id": "2880",
+    "meta": {
+      "alpha": false,
+      "compress": {
+        "alpha": false,
+        "basis": false,
+        "compressionMode": "etc",
+        "dxt": false,
+        "etc1": false,
+        "etc2": false,
+        "normals": false,
+        "pvr": false,
+        "pvrBpp": 4,
+        "quality": 128
+      },
+      "depth": 1,
+      "format": "png",
+      "height": 2048,
+      "interlaced": false,
+      "type": "png",
+      "width": 2048
+    },
+    "name": "Model-538-9519_lp_R-538-9519_Normal.png",
+    "path": [
+      2870
+    ],
+    "preload": true,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": "2872",
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741853,
+    "mtime": 1786689784552
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 3
+}

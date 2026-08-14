@@ -1,0 +1,63 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "loading": false,
+      "loadingType": 0,
+      "order": 100,
+      "scripts": {
+        "touchInput": {
+          "attributes": {
+            "distanceSensitivity": {
+              "default": 0.2,
+              "description": "How fast the camera moves in and out. Higher is faster",
+              "title": "Distance Sensitivity",
+              "type": "number"
+            },
+            "orbitSensitivity": {
+              "default": 0.4,
+              "description": "How fast the camera moves around the orbit. Higher is faster",
+              "title": "Orbit Sensitivity",
+              "type": "number"
+            }
+          },
+          "attributesOrder": [
+            "orbitSensitivity",
+            "distanceSensitivity"
+          ]
+        }
+      }
+    },
+    "file": {
+      "filename": "touch-input.js",
+      "hash": "548422c3b3842c1c312934492c88707294f830540e36f14f22ba52dc1ce60e40",
+      "size": 5069
+    },
+    "i18n": {},
+    "immutable_backup": "2ad16c6f-01da-4d17-b05c-ee5d17c13c27",
+    "item_id": "2858",
+    "meta": null,
+    "name": "touch-input.js",
+    "path": [
+      2816
+    ],
+    "preload": true,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "script"
+  },
+  "m": {
+    "ctime": 1786689741793,
+    "mtime": 1786689741793
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

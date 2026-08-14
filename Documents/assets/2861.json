@@ -1,0 +1,69 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "addressu": "repeat",
+      "addressv": "repeat",
+      "anisotropy": 4,
+      "magfilter": "linear",
+      "minfilter": "linear_mip_linear",
+      "mipmaps": true,
+      "rgbm": false,
+      "srgb": false
+    },
+    "file": {
+      "filename": "plastic_normals.png",
+      "hash": "db14822fb63ab3db94c77b7f0c2882637f37032c922f9970f1f8d42302f5338b",
+      "size": 210587
+    },
+    "has_thumbnail": true,
+    "i18n": {},
+    "immutable_backup": "b5c2ca0b-5a94-4f15-8c4b-6aa9ceb688f5",
+    "item_id": "2860",
+    "meta": {
+      "alpha": false,
+      "compress": {
+        "alpha": false,
+        "basis": false,
+        "compressionMode": "etc",
+        "dxt": false,
+        "etc1": false,
+        "etc2": false,
+        "normals": false,
+        "pvr": false,
+        "pvrBpp": 4,
+        "quality": 128
+      },
+      "depth": 1,
+      "format": "png",
+      "height": 512,
+      "interlaced": false,
+      "srgb": true,
+      "type": "png",
+      "width": 512
+    },
+    "name": "plastic_normals.png",
+    "path": [
+      2846,
+      2818
+    ],
+    "preload": true,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741799,
+    "mtime": 1786689785096
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 6
+}

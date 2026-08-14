@@ -1,0 +1,158 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "entities": {
+        "2c9a6761-da91-4457-acec-39b12d854fc8": {
+          "children": [],
+          "components": {
+            "render": {
+              "asset": 2806,
+              "batchGroupId": null,
+              "castShadows": true,
+              "castShadowsLightMap": true,
+              "castShadowsLightmap": true,
+              "enabled": true,
+              "isStatic": false,
+              "layers": [
+                0
+              ],
+              "lightMapSizeMultiplier": 1,
+              "lightMapped": false,
+              "lightmapSizeMultiplier": 1,
+              "lightmapped": false,
+              "materialAssets": [
+                2866
+              ],
+              "receiveShadows": true,
+              "rootBone": null,
+              "type": "asset"
+            }
+          },
+          "enabled": true,
+          "name": "canvas",
+          "parent": "fbb04284-0eb0-4569-8f56-b37af27b2dc7",
+          "position": [
+            0.0000705719,
+            -0.0000038147,
+            -0.000264645
+          ],
+          "resource_id": "2c9a6761-da91-4457-acec-39b12d854fc8",
+          "rotation": [
+            -90,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "tags": []
+        },
+        "d5e287db-706b-4641-8eee-0fec635f0b41": {
+          "children": [],
+          "components": {
+            "render": {
+              "asset": 2804,
+              "batchGroupId": null,
+              "castShadows": true,
+              "castShadowsLightMap": true,
+              "castShadowsLightmap": true,
+              "enabled": true,
+              "isStatic": false,
+              "layers": [
+                0
+              ],
+              "lightMapSizeMultiplier": 1,
+              "lightMapped": false,
+              "lightmapSizeMultiplier": 1,
+              "lightmapped": false,
+              "materialAssets": [
+                2868
+              ],
+              "receiveShadows": true,
+              "rootBone": null,
+              "type": "asset"
+            }
+          },
+          "enabled": true,
+          "name": "play",
+          "parent": "fbb04284-0eb0-4569-8f56-b37af27b2dc7",
+          "position": [
+            0.0000705719,
+            -0.0000038147,
+            -0.000264645
+          ],
+          "resource_id": "d5e287db-706b-4641-8eee-0fec635f0b41",
+          "rotation": [
+            -90,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "tags": []
+        },
+        "fbb04284-0eb0-4569-8f56-b37af27b2dc7": {
+          "children": [
+            "2c9a6761-da91-4457-acec-39b12d854fc8",
+            "d5e287db-706b-4641-8eee-0fec635f0b41"
+          ],
+          "components": {},
+          "enabled": true,
+          "name": "RootNode",
+          "parent": null,
+          "position": [
+            0,
+            0,
+            0
+          ],
+          "resource_id": "fbb04284-0eb0-4569-8f56-b37af27b2dc7",
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            0.01,
+            0.01,
+            0.01
+          ],
+          "tags": []
+        }
+      }
+    },
+    "file": null,
+    "i18n": {},
+    "item_id": "2814",
+    "meta": {
+      "containerAsset": 2798
+    },
+    "name": "playcanvas",
+    "path": [
+      2846,
+      2808
+    ],
+    "preload": false,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "template"
+  },
+  "m": {
+    "ctime": 1786689741668,
+    "mtime": 1786689741668
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

@@ -1,0 +1,38 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {},
+    "file": {
+      "filename": "model.glb",
+      "hash": "9ea197693289a30c29cc15e5b3f581f52e5fd0499ad66ee9fb741feb8c1b57a2",
+      "size": 61000
+    },
+    "i18n": {},
+    "immutable_backup": "bc56312c-ec2e-45c9-b68c-1f9bf6358751",
+    "item_id": "2798",
+    "meta": null,
+    "name": "model.glb",
+    "path": [
+      2846,
+      2808
+    ],
+    "preload": true,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": "2802",
+    "tags": [],
+    "task": null,
+    "type": "container"
+  },
+  "m": {
+    "ctime": 1786689741640,
+    "mtime": 1786689784407
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 2
+}

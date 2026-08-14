@@ -1,0 +1,39 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "containerAsset": 2874,
+      "renderIndex": 1
+    },
+    "exclude": false,
+    "has_thumbnail": false,
+    "i18n": {},
+    "item_id": "2878",
+    "meta": {
+      "meshInstances": 1,
+      "primitives": 1,
+      "vertices": 12497
+    },
+    "name": "shoe",
+    "path": [
+      2870
+    ],
+    "preload": true,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": "2872",
+    "tags": [],
+    "task": null,
+    "type": "render"
+  },
+  "m": {
+    "ctime": 1786689741843,
+    "mtime": 1786689741843
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

@@ -1,0 +1,29 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": null,
+    "file": null,
+    "i18n": {},
+    "item_id": "2850",
+    "meta": null,
+    "name": "cubemap",
+    "path": [],
+    "preload": false,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": true,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "folder"
+  },
+  "m": {
+    "ctime": 1786689741771,
+    "mtime": 1786689741771
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

@@ -1,0 +1,60 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "mipmaps": true,
+      "srgb": true
+    },
+    "exclude": false,
+    "file": {
+      "filename": "Model-538-9519_lp_R-538-9519_BaseColor.png",
+      "hash": "735d5395cf38353d39f92274770b4ce0aa71911a398b19c20b7036b47ca023d2",
+      "size": 4866544
+    },
+    "has_thumbnail": true,
+    "i18n": {},
+    "item_id": "2882",
+    "meta": {
+      "alpha": false,
+      "compress": {
+        "alpha": false,
+        "basis": false,
+        "compressionMode": "etc",
+        "dxt": false,
+        "etc1": false,
+        "etc2": false,
+        "normals": false,
+        "pvr": false,
+        "pvrBpp": 4,
+        "quality": 128
+      },
+      "depth": 1,
+      "format": "png",
+      "height": 2048,
+      "interlaced": false,
+      "type": "png",
+      "width": 2048
+    },
+    "name": "Model-538-9519_lp_R-538-9519_BaseColor.png",
+    "path": [
+      2870
+    ],
+    "preload": true,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": "2872",
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741865,
+    "mtime": 1786689784616
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 3
+}

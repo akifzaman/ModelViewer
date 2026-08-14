@@ -1,0 +1,50 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "srgb": false
+    },
+    "file": {
+      "filename": "Helipad_negy.hdr",
+      "hash": "58d163d61d5ad5fa360892af650d7fe3dbc6648ce4b9b0fecbb8351e960fdb63",
+      "size": 1048656
+    },
+    "has_thumbnail": false,
+    "i18n": {},
+    "immutable_backup": "b14f7b16-b140-4d0c-8e73-c1b0473c64d0",
+    "item_id": "2800",
+    "meta": {
+      "alpha": false,
+      "depth": 1,
+      "format": "hdr",
+      "height": 512,
+      "interlaced": false,
+      "srgb": false,
+      "type": "hdr",
+      "width": 512
+    },
+    "name": "Helipad_negy.hdr",
+    "path": [
+      2850,
+      2810
+    ],
+    "preload": false,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": true,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741644,
+    "mtime": 1786689785120
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 9
+}

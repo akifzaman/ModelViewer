@@ -1,0 +1,122 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "alphaDither": 1,
+      "alphaFade": 1,
+      "alphaToCoverage": false,
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "ambientTint": true,
+      "anisotropyIntensity": 0,
+      "anisotropyRotation": 0,
+      "blendType": 3,
+      "clearCoat": 0,
+      "clearCoatBumpiness": 1,
+      "clearCoatGloss": 1,
+      "clearCoatGlossMap": null,
+      "clearCoatGlossMapChannel": "r",
+      "clearCoatGlossMapOffset": [
+        0,
+        0
+      ],
+      "clearCoatGlossMapTiling": [
+        1,
+        1
+      ],
+      "clearCoatGlossMapUv": 0,
+      "clearCoatGlossVertexColor": false,
+      "clearCoatGlossVertexColorChannel": "r",
+      "clearCoatMap": null,
+      "clearCoatMapChannel": "r",
+      "clearCoatMapOffset": [
+        0,
+        0
+      ],
+      "clearCoatMapTiling": [
+        1,
+        1
+      ],
+      "clearCoatMapUv": 0,
+      "clearCoatNormalMap": null,
+      "clearCoatNormalMapOffset": [
+        0,
+        0
+      ],
+      "clearCoatNormalMapTiling": [
+        1,
+        1
+      ],
+      "clearCoatNormalMapUv": 0,
+      "clearCoatVertexColor": false,
+      "clearCoatVertexColorChannel": "r",
+      "cubeMapProjectionBox": {
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "halfExtents": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "cull": 0,
+      "diffuse": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "diffuseTint": true,
+      "emissive": [
+        0,
+        0,
+        0
+      ],
+      "emissiveTint": true,
+      "metalness": 0,
+      "metalnessTint": true,
+      "opacity": 1,
+      "opacityFadesSpecular": true,
+      "shader": "blinn",
+      "sheenGlossTint": true,
+      "sheenTint": true,
+      "shininess": 0,
+      "twoSidedLighting": false,
+      "useFog": true,
+      "useLighting": true,
+      "useMetalness": true,
+      "useSkybox": true
+    },
+    "exclude": false,
+    "has_thumbnail": false,
+    "i18n": {},
+    "item_id": "2886",
+    "meta": null,
+    "name": "Default_OBJ.001",
+    "path": [
+      2870
+    ],
+    "preload": true,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": "2872",
+    "tags": [],
+    "task": null,
+    "type": "material"
+  },
+  "m": {
+    "ctime": 1786689741868,
+    "mtime": 1786689741868
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

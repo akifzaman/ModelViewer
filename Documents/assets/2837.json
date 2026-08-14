@@ -1,0 +1,69 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "addressu": "repeat",
+      "addressv": "repeat",
+      "anisotropy": 1,
+      "magfilter": "linear",
+      "minfilter": "linear_mip_linear",
+      "mipmaps": false,
+      "rgbm": false,
+      "srgb": false
+    },
+    "file": {
+      "filename": "Concrete_AO.jpg",
+      "hash": "50d01f32e51eecc2af81f98db38b656ad985cf28f22ce199370cae767d84b191",
+      "size": 22771
+    },
+    "has_thumbnail": true,
+    "i18n": {},
+    "immutable_backup": "54ec9cc6-aa1a-4597-b00e-61202808ca72",
+    "item_id": "2836",
+    "meta": {
+      "alpha": false,
+      "compress": {
+        "alpha": false,
+        "basis": false,
+        "compressionMode": "etc",
+        "dxt": true,
+        "etc1": true,
+        "etc2": false,
+        "normals": false,
+        "pvr": true,
+        "pvrBpp": 2,
+        "quality": 128
+      },
+      "depth": 1,
+      "format": "jpeg",
+      "height": 512,
+      "interlaced": false,
+      "srgb": false,
+      "type": "jpeg",
+      "width": 512
+    },
+    "name": "Concrete_AO.jpg",
+    "path": [
+      2846,
+      2818
+    ],
+    "preload": true,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741736,
+    "mtime": 1786689784950
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 7
+}

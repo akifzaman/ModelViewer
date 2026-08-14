@@ -1,0 +1,46 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "loading": false,
+      "loadingType": 0,
+      "scripts": {
+        "keyboardInput": {
+          "attributes": {},
+          "attributesOrder": []
+        }
+      }
+    },
+    "file": {
+      "filename": "keyboard-input.js",
+      "hash": "dbbac3860e854842e21378ca26a3dac8dd91d037aacca54ff1b201839bda7889",
+      "size": 864
+    },
+    "i18n": {},
+    "immutable_backup": "964f027a-d97b-4b10-98e1-c613b560f2e4",
+    "item_id": "2824",
+    "meta": null,
+    "name": "keyboard-input.js",
+    "path": [
+      2816
+    ],
+    "preload": true,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "script"
+  },
+  "m": {
+    "ctime": 1786689741703,
+    "mtime": 1786689741703
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

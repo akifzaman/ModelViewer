@@ -1,0 +1,61 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": null,
+    "exclude": false,
+    "file": {
+      "filename": "01. R-538-9519.glb",
+      "hash": "0b55e126c50536268918c91e5ea18f0900067794a650c2a6670448636dc0bcaf",
+      "size": 8861432
+    },
+    "has_thumbnail": false,
+    "i18n": {},
+    "item_id": "2872",
+    "meta": {
+      "animations": 0,
+      "attributes": {
+        "COLOR_0": true,
+        "NORMAL": true,
+        "POSITION": true,
+        "TEXCOORD_0": true
+      },
+      "mappings": [
+        0,
+        1
+      ],
+      "materials": [
+        {
+          "name": "Default_OBJ.001"
+        },
+        {
+          "name": "01. R-538-9519"
+        }
+      ],
+      "meshCompression": null,
+      "meshes": 2,
+      "nodes": 3,
+      "vertices": 13674
+    },
+    "name": "01. R-538-9519.glb",
+    "path": [
+      2870
+    ],
+    "preload": true,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": true,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "scene"
+  },
+  "m": {
+    "ctime": 1786689741828,
+    "mtime": 1786689741828
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

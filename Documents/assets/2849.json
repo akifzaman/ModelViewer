@@ -1,0 +1,69 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "addressu": "repeat",
+      "addressv": "repeat",
+      "anisotropy": 4,
+      "magfilter": "linear",
+      "minfilter": "linear_mip_linear",
+      "mipmaps": true,
+      "rgbm": false,
+      "srgb": false
+    },
+    "file": {
+      "filename": "metal_gloss.png",
+      "hash": "c565d62c3c387ae95eb17f1b35dcb582c8ca5c0d1fc62b610e3a21fbcfc0680b",
+      "size": 144486
+    },
+    "has_thumbnail": true,
+    "i18n": {},
+    "immutable_backup": "00d38d19-7f3e-47f5-bee9-7e4865ee6d5d",
+    "item_id": "2848",
+    "meta": {
+      "alpha": false,
+      "compress": {
+        "alpha": false,
+        "basis": false,
+        "compressionMode": "etc",
+        "dxt": true,
+        "etc1": true,
+        "etc2": false,
+        "normals": false,
+        "pvr": true,
+        "pvrBpp": 2,
+        "quality": 128
+      },
+      "depth": 1,
+      "format": "png",
+      "height": 512,
+      "interlaced": false,
+      "srgb": false,
+      "type": "png",
+      "width": 512
+    },
+    "name": "metal_gloss.png",
+    "path": [
+      2846,
+      2818
+    ],
+    "preload": true,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741769,
+    "mtime": 1786689785034
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 6
+}

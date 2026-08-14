@@ -1,0 +1,68 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "addressu": "repeat",
+      "addressv": "repeat",
+      "anisotropy": 1,
+      "magfilter": "linear",
+      "minfilter": "linear_mip_linear",
+      "mipmaps": true,
+      "rgbm": true,
+      "srgb": false
+    },
+    "file": {
+      "filename": "Helipad_negy.png",
+      "hash": "a9e6b52dc839d2c91b29647406a4a52cce6182a5e047cdb008b3ec3931376de0",
+      "size": 465542
+    },
+    "has_thumbnail": true,
+    "i18n": {},
+    "immutable_backup": "df82001e-42fa-48ce-ac2d-e9f5953422cb",
+    "item_id": "2852",
+    "meta": {
+      "alpha": true,
+      "compress": {
+        "alpha": true,
+        "basis": false,
+        "compressionMode": "etc",
+        "dxt": false,
+        "etc1": false,
+        "etc2": false,
+        "normals": false,
+        "pvr": false,
+        "pvrBpp": 4,
+        "quality": 128
+      },
+      "depth": 1,
+      "format": "png",
+      "height": 512,
+      "interlaced": false,
+      "srgb": true,
+      "type": "png",
+      "width": 512
+    },
+    "name": "Helipad_negy.png",
+    "path": [
+      2850
+    ],
+    "preload": false,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": "2800",
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741778,
+    "mtime": 1786689784774
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 7
+}

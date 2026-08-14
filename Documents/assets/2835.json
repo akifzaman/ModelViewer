@@ -1,0 +1,63 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "loading": false,
+      "loadingType": 0,
+      "order": 100,
+      "scripts": {
+        "mouseInput": {
+          "attributes": {
+            "distanceSensitivity": {
+              "default": 0.15,
+              "description": "How fast the camera moves in and out. Higher is faster",
+              "title": "Distance Sensitivity",
+              "type": "number"
+            },
+            "orbitSensitivity": {
+              "default": 0.3,
+              "description": "How fast the camera moves around the orbit. Higher is faster",
+              "title": "Orbit Sensitivity",
+              "type": "number"
+            }
+          },
+          "attributesOrder": [
+            "orbitSensitivity",
+            "distanceSensitivity"
+          ]
+        }
+      }
+    },
+    "file": {
+      "filename": "mouse-input.js",
+      "hash": "518adf342604f6b04a4c2009ebfa27e9c756cf7c60be768b12012e02c689a9d8",
+      "size": 4175
+    },
+    "i18n": {},
+    "immutable_backup": "2ab3bd0e-103e-495f-9e34-b46fab3413c2",
+    "item_id": "2834",
+    "meta": null,
+    "name": "mouse-input.js",
+    "path": [
+      2816
+    ],
+    "preload": true,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "script"
+  },
+  "m": {
+    "ctime": 1786689741729,
+    "mtime": 1786689741729
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

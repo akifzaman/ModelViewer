@@ -1,0 +1,68 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "addressu": "repeat",
+      "addressv": "repeat",
+      "anisotropy": 1,
+      "magfilter": "linear",
+      "minfilter": "linear_mip_linear",
+      "mipmaps": true,
+      "rgbm": true,
+      "srgb": false
+    },
+    "file": {
+      "filename": "Helipad_negz.png",
+      "hash": "2b876534d2cfe333ce6f493c7a626216d2184220f7e952bfeea01d4998d76cd4",
+      "size": 414309
+    },
+    "has_thumbnail": true,
+    "i18n": {},
+    "immutable_backup": "841b59cf-5260-468b-a4a6-1a73459ee083",
+    "item_id": "2822",
+    "meta": {
+      "alpha": true,
+      "compress": {
+        "alpha": true,
+        "basis": false,
+        "compressionMode": "etc",
+        "dxt": false,
+        "etc1": false,
+        "etc2": false,
+        "normals": false,
+        "pvr": false,
+        "pvrBpp": 4,
+        "quality": 128
+      },
+      "depth": 1,
+      "format": "png",
+      "height": 512,
+      "interlaced": false,
+      "srgb": true,
+      "type": "png",
+      "width": 512
+    },
+    "name": "Helipad_negz.png",
+    "path": [
+      2850
+    ],
+    "preload": false,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": "2840",
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741700,
+    "mtime": 1786689784838
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 7
+}

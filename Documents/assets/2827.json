@@ -1,0 +1,50 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "srgb": false
+    },
+    "file": {
+      "filename": "Helipad_posx.hdr",
+      "hash": "4451d7f4b76f2e5ed00a273d759884ca93fff1b29e57e1b3ee99899f0f7aa1f7",
+      "size": 1048656
+    },
+    "has_thumbnail": false,
+    "i18n": {},
+    "immutable_backup": "6398af01-9625-4c75-904a-48fe174de831",
+    "item_id": "2826",
+    "meta": {
+      "alpha": false,
+      "depth": 1,
+      "format": "hdr",
+      "height": 512,
+      "interlaced": false,
+      "srgb": false,
+      "type": "hdr",
+      "width": 512
+    },
+    "name": "Helipad_posx.hdr",
+    "path": [
+      2850,
+      2810
+    ],
+    "preload": false,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": true,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741707,
+    "mtime": 1786689785140
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 9
+}

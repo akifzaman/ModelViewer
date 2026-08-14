@@ -1,0 +1,198 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "entities": {
+        "1c350165-e30e-44f9-9d17-2e4481a8a7d1": {
+          "children": [
+            "4206fb27-f4e2-4a42-9e40-21f3d00c4fdb"
+          ],
+          "components": {},
+          "enabled": true,
+          "name": "01. R-538-9519",
+          "parent": null,
+          "position": [
+            0,
+            0,
+            0
+          ],
+          "resource_id": "1c350165-e30e-44f9-9d17-2e4481a8a7d1",
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "tags": []
+        },
+        "4206fb27-f4e2-4a42-9e40-21f3d00c4fdb": {
+          "children": [
+            "8b27e8bf-37c2-43e4-8286-2d37e62710a0",
+            "efc49d33-9008-4aba-8a9f-b3f45437ba45"
+          ],
+          "components": {},
+          "enabled": true,
+          "name": "shoe_root",
+          "parent": "1c350165-e30e-44f9-9d17-2e4481a8a7d1",
+          "position": [
+            0,
+            0,
+            0
+          ],
+          "resource_id": "4206fb27-f4e2-4a42-9e40-21f3d00c4fdb",
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "tags": []
+        },
+        "8b27e8bf-37c2-43e4-8286-2d37e62710a0": {
+          "children": [],
+          "components": {
+            "render": {
+              "aabbCenter": [
+                0,
+                0,
+                0
+              ],
+              "aabbHalfExtents": [
+                0.5,
+                0.5,
+                0.5
+              ],
+              "asset": 2876,
+              "batchGroupId": null,
+              "castShadows": true,
+              "castShadowsLightmap": true,
+              "customAabb": false,
+              "enabled": true,
+              "isStatic": false,
+              "layers": [
+                0
+              ],
+              "lightmapSizeMultiplier": 1,
+              "lightmapped": false,
+              "materialAssets": [
+                2886
+              ],
+              "receiveShadows": true,
+              "rootBone": null,
+              "type": "asset"
+            }
+          },
+          "enabled": true,
+          "name": "foot",
+          "parent": "4206fb27-f4e2-4a42-9e40-21f3d00c4fdb",
+          "position": [
+            0,
+            0,
+            0
+          ],
+          "resource_id": "8b27e8bf-37c2-43e4-8286-2d37e62710a0",
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "tags": []
+        },
+        "efc49d33-9008-4aba-8a9f-b3f45437ba45": {
+          "children": [],
+          "components": {
+            "render": {
+              "aabbCenter": [
+                0,
+                0,
+                0
+              ],
+              "aabbHalfExtents": [
+                0.5,
+                0.5,
+                0.5
+              ],
+              "asset": 2878,
+              "batchGroupId": null,
+              "castShadows": true,
+              "castShadowsLightmap": true,
+              "customAabb": false,
+              "enabled": true,
+              "isStatic": false,
+              "layers": [
+                0
+              ],
+              "lightmapSizeMultiplier": 1,
+              "lightmapped": false,
+              "materialAssets": [
+                2888
+              ],
+              "receiveShadows": true,
+              "rootBone": null,
+              "type": "asset"
+            }
+          },
+          "enabled": true,
+          "name": "shoe",
+          "parent": "4206fb27-f4e2-4a42-9e40-21f3d00c4fdb",
+          "position": [
+            0,
+            0,
+            0
+          ],
+          "resource_id": "efc49d33-9008-4aba-8a9f-b3f45437ba45",
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "tags": []
+        }
+      }
+    },
+    "exclude": false,
+    "has_thumbnail": false,
+    "i18n": {},
+    "item_id": "2890",
+    "meta": null,
+    "name": "01. R-538-9519",
+    "path": [
+      2870
+    ],
+    "preload": true,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": "2872",
+    "tags": [],
+    "task": null,
+    "type": "template"
+  },
+  "m": {
+    "ctime": 1786689741872,
+    "mtime": 1786689741872
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

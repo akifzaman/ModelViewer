@@ -1,0 +1,30 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": null,
+    "exclude": false,
+    "has_thumbnail": false,
+    "i18n": {},
+    "item_id": "2870",
+    "meta": null,
+    "name": "01. R-538-9519.glb",
+    "path": [],
+    "preload": false,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "folder"
+  },
+  "m": {
+    "ctime": 1786689741819,
+    "mtime": 1786689741819
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 1
+}

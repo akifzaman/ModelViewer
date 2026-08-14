@@ -1,0 +1,69 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "addressu": "repeat",
+      "addressv": "repeat",
+      "anisotropy": 4,
+      "magfilter": "linear",
+      "minfilter": "linear_mip_linear",
+      "mipmaps": true,
+      "rgbm": false,
+      "srgb": false
+    },
+    "file": {
+      "filename": "plastic_gloss.png",
+      "hash": "60053e5d46bb19a91661e3f311f1b74dca160bee2d4ae58ff3fee1ce785894a3",
+      "size": 186205
+    },
+    "has_thumbnail": true,
+    "i18n": {},
+    "immutable_backup": "e8d7de86-8a73-4fe5-9b9e-401107b7e8fa",
+    "item_id": "2844",
+    "meta": {
+      "alpha": false,
+      "compress": {
+        "alpha": false,
+        "basis": false,
+        "compressionMode": "etc",
+        "dxt": true,
+        "etc1": true,
+        "etc2": false,
+        "normals": false,
+        "pvr": true,
+        "pvrBpp": 2,
+        "quality": 128
+      },
+      "depth": 1,
+      "format": "png",
+      "height": 512,
+      "interlaced": false,
+      "srgb": false,
+      "type": "png",
+      "width": 512
+    },
+    "name": "plastic_gloss.png",
+    "path": [
+      2846,
+      2818
+    ],
+    "preload": true,
+    "revision": 1,
+    "same_as_backup": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "texture"
+  },
+  "m": {
+    "ctime": 1786689741760,
+    "mtime": 1786689785083
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 6
+}
