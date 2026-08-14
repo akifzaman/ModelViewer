@@ -1,0 +1,45 @@
+{
+  "data": {
+    "branch_id": "main",
+    "data": {
+      "loading": false,
+      "loadingType": 0,
+      "scripts": {
+        "dummy": {
+          "attributes": {},
+          "attributesInvalid": [],
+          "attributesOrder": []
+        }
+      }
+    },
+    "exclude": false,
+    "file": {
+      "filename": "Dummy.js",
+      "hash": "bf7c280b7ae51668acd68ef365fd0fda784250b362283e5bf55a01ec589abf40",
+      "size": 478
+    },
+    "has_thumbnail": false,
+    "i18n": {},
+    "item_id": "3658184375",
+    "meta": null,
+    "name": "Dummy.js",
+    "path": [],
+    "preload": true,
+    "revision": 1,
+    "scope": {
+      "id": 1,
+      "type": "project"
+    },
+    "source": false,
+    "source_asset_id": null,
+    "tags": [],
+    "task": null,
+    "type": "script"
+  },
+  "m": {
+    "ctime": 1786693213599,
+    "mtime": 1786693214400
+  },
+  "type": "http://sharejs.org/types/JSONv0",
+  "v": 2
+}
